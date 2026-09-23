@@ -1,0 +1,6 @@
+{
+  "name": "THE FAB HOUSE",
+  "description": "B2B fabric ordering platform for Blackout, Dimout, Solar Shading, and Curtain fabrics with live roll stock, mill procurement, and automated GST invoicing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
